@@ -1,0 +1,11 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M80 24L54 136H66L80 72L94 136H106L80 24Z" fill="var(--primary, #FF6A1A)"/>
+  <path d="M62 60H98" stroke="var(--primary, #FF6A1A)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M58 88H102" stroke="var(--primary, #FF6A1A)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M80 20C80 20 95 30 95 44" stroke="var(--primary-soft, #FFD7C0)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 20C80 20 65 30 65 44" stroke="var(--primary-soft, #FFD7C0)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M80 10C80 10 108 26 108 52" stroke="var(--primary-soft, #FFD7C0)" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M80 10C80 10 52 26 52 52" stroke="var(--primary-soft, #FFD7C0)" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <circle cx="80" cy="14" r="6" fill="var(--surface, white)"/>
+  <circle cx="80" cy="14" r="3" fill="var(--primary, #FF6A1A)"/>
+</svg>

@@ -2,13 +2,23 @@
   "version": 1,
   "project": "telecom-dealer-app",
   "themes": ["light", "dark", "blue", "green"],
-  "assets": [],
-  "conventions": {
-    "icons": "assets/icons",
-    "illustrations": "assets/illustrations",
-    "backgrounds": "assets/backgrounds",
-    "themes": "assets/themes",
-    "preferredVectorFormat": "svg",
-    "preferredRasterFormat": "webp"
-  }
+  "icons": [
+    "assets/icons/home.svg",
+    "assets/icons/analytics.svg",
+    "assets/icons/sales.svg",
+    "assets/icons/wallet.svg",
+    "assets/icons/more.svg",
+    "assets/icons/activate-sim.svg",
+    "assets/icons/recharge-wallet.svg",
+    "assets/icons/add-dealer.svg"
+  ],
+  "illustrations": [
+    "assets/illustrations/telecom-tower.svg",
+    "assets/illustrations/fos-route.svg",
+    "assets/illustrations/wallet-coins.svg"
+  ],
+  "backgrounds": [
+    "assets/backgrounds/dealer-wallet-bg.svg",
+    "assets/backgrounds/home-hero-pattern.svg"
+  ]
 }
