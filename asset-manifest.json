@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "project": "telecom-dealer-app",
+  "themes": ["light", "dark", "blue", "green"],
+  "assets": [],
+  "conventions": {
+    "icons": "assets/icons",
+    "illustrations": "assets/illustrations",
+    "backgrounds": "assets/backgrounds",
+    "themes": "assets/themes",
+    "preferredVectorFormat": "svg",
+    "preferredRasterFormat": "webp"
+  }
+}
